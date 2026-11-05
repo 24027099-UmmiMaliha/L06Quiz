@@ -16,11 +16,10 @@ Highlight the features of your app and describe the concepts applied
 
 Screenshots: <br>
 ### Screenshot 1
-![Screenshot 1](screenshots/screenshot1.png)
+<img src="./Screenshots/screenshot1.png">
 
 ### Screenshot 2
-![Screenshot 2](screenshots/screenshot2.png)
-
+<img src="./Screenshots/screenshot2.png">
 
 # Demo Video
 

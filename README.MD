@@ -12,6 +12,7 @@ Highlight the features of your app and describe the concepts applied
 - I used the Button component to allow users to submit their answers and check their final score.
 - I used Alert.alert() to display different feedback messages and the number of correct answers after submission.
 - I used inline styling to customise the app's appearance with font colours, font sizes and more, making the interface visually appealing.
+
 # ScreenShots of App
 
 Screenshots: <br>

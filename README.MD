@@ -13,7 +13,7 @@ Highlight the features of your app and describe the concepts applied
 - I used Alert.alert() to display different feedback messages and the number of correct answers after submission.
 - I used inline styling to customise the app's appearance with font colours, font sizes and more, making the interface visually appealing.
 
-# ScreenShots of App
+# Screenshots of App
 
 Screenshots: <br>
 ### Screenshot 1
